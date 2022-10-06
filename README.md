@@ -1,4 +1,4 @@
-##What is JAMM: Advancing Through Time?
+## What is JAMM: Advancing Through Time?
 
 Just Another Modded Minecraft (JAMM) Advancing Through Time; is a modpack focused on different ages throughout the history. It's progression-based gameplay will let you experience to live from primitive prehistoric ages to the more advanced atomic age.
 
